@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Hello SKT</string>
+    <string name="my_name">Yeoh Teng Li</string>
+    <string name="show_name">Show Name</string>
+    <string name="hide_name">Hide Name</string>
+</resources>
